@@ -9,7 +9,7 @@ This repo contains the code for running an agent-app and supports 2 environments
 
 1. [Install uv](https://docs.astral.sh/uv/#getting-started): `curl -LsSf https://astral.sh/uv/install.sh | sh`
 
-> from the `agent-app` dir:
+> from the `rpg_engine` dir:
 
 2. Install workspace and activate the virtual env:
 
