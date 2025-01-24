@@ -11,7 +11,6 @@ grum_state = CharacterState(
     status_effects = [],
     is_conscious = True,
     position = "Standing guard in front of Thalia",
-
 )
 
 thalia_state = CharacterState(
