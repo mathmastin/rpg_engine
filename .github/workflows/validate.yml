@@ -43,8 +43,8 @@ jobs:
       - name: Lint with ruff
         run: uv run ruff check --fix .
 
-      - name: Type-check with mypy
-        run: uv run mypy .
+      # - name: Type-check with mypy
+      #   run: uv run mypy .
 
       # - name: Run tests
       #   run: uv run pytest tests

@@ -86,5 +86,5 @@ def get_combat_agent(
         # Enable monitoring on phidata.app
         monitoring=True,
         # Show debug logs
-        debug_mode=False,
+        debug_mode=debug_mode,
     )
